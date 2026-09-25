@@ -2,7 +2,7 @@
 
 ## Deployment
 
-- **Live URL**: `https://sanctum-sanctorum-bookstore.onrender.com` *(or your deployed URL)*
+- **Live URL**: `https://sanctum-sanctorum-bookstore-8mav.onrender.com`
 - **API Docs**: `/docs` (Interactive Swagger UI)
 - **Web Interface**: `/` (Member clubhouse frontend)
 - **Database**: SQLite / PostgreSQL compatible (configured via `SANCTUM_DATABASE_URL`).
